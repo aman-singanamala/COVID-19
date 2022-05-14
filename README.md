@@ -22,6 +22,7 @@ X-Rays. We preprocess those Images before diving into the Classification. </li>
 
 <h1 align="center" style="font-size:20vw">Data-Set Used</h1>
 <a href="https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database" target="_blank"><p align="center"> <img src="https://user-images.githubusercontent.com/84006448/168419291-4745e998-a4ae-49e3-8e18-68e1955f8c8c.png" alt="Aman Singanamala" /> </p></a>
+<p align="center"> 	:point_up_2:</p>
 <hr>
 
  
