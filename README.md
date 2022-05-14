@@ -62,7 +62,7 @@ Learning, Deep Learning Models on Web Application. </p>
 
 
 
-
+<p align ="center"> It is Deployed Locally ( Due to some Error in Image Loading It is not completely deployed) Working on that . </p>
 
 
 
