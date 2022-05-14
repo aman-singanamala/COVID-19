@@ -7,13 +7,13 @@ The global pandemic of COVID-19 has an impact on health care and lifestyle aroun
 </br>
 <p align="center"> <b> PROCEDURE </b> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/84006448/168418683-5763f29a-1d87-4ec5-9ff0-a0abd228521c.png" alt="Aman Singanamala" /> </p>
+<a href ="https://www.kaggle.com/datasets/francismon/curated-covid19-chest-xray-dataset"> <p align="center"> <img src="https://user-images.githubusercontent.com/84006448/168418683-5763f29a-1d87-4ec5-9ff0-a0abd228521c.png" alt="Aman Singanamala" /> </p> </a>
 
 <hr>
 
 
 <p align="center"> <b> DATASETS USED </b> </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/84006448/168419291-4745e998-a4ae-49e3-8e18-68e1955f8c8c.png" alt="Aman Singanamala" /> </p>
+<a href="https://www.kaggle.com/datasets/francismon/curated-covid19-chest-xray-dataset"><p align="center"> <img src="https://user-images.githubusercontent.com/84006448/168419291-4745e998-a4ae-49e3-8e18-68e1955f8c8c.png" alt="Aman Singanamala" /> </p></a>
 
 
 
