@@ -29,7 +29,7 @@ X-Rays. We preprocess those Images before diving into the Classification. </li>
 <h2 style="font-size:20vw"> Tech Stack </h2>
 
 <ul>
-  <li> Python ( for ML and Streamlit) </li>
+  <li> Python (for ML and Streamlit) </li>
 </ul>
 
 <h2 style="font-size:20vw"> Key-Words </h2>
